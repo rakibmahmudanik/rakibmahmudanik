@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning jS
 - 💞️ I’m looking to collaborate on HTML and CSS Project -->
 
-Hi, My name is Rakib Mahmud. I'm a Graphic Designer with over 3 years of experience as a Logo designer. So far I have Completed 200+ projects on Fiverr. Currently, I am learning full-stack web development. <br>
+Hi, My name is Rakib Mahmud. I'm a Graphic Designer with over 3 years of experience as a Logo designer. So far I have Completed 200+ projects on <a href = "https://www.fiverr.com/rakibmahmuda">Fiverr </a>. Currently, I am learning full-stack web development. <br>
 So far, I have completed HTML, CSS, Bootstrap, TailwindCss, JAVA(basic) and JavaScript/ES6(basic). My next goal is MERN stack development. 
 
 Thank you :) <br>
