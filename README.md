@@ -70,5 +70,5 @@ GitHub Stats
 </p>
 
 <p align="center">
-  📫 Let's connect — <a href="https://www.behance.net/rakibmahmuacf420">Behance</a> · <a href="https://github.com/rakibmahmudanik?tab=repositories">GitHub</a>
+  📫 Let's connect — <a href="[https://www.behance.net/rakibmahmuacf420](https://www.linkedin.com/in/rakib-mahmud-112596248/)">LinkedIn</a> · <a href="https://github.com/rakibmahmudanik?tab=repositories">GitHub</a>
 </p>
