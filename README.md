@@ -48,7 +48,7 @@ Crafting pixels. Engineering the full stack. Moving from brand design to complet
 ### 🎨 Design Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
 </p>
