@@ -2,7 +2,7 @@
 <h3 align="center">Creative Frontend Engineer | Brand Identity Designer</h3>
 
 <p align="center">
-Crafting pixels. Engineering the full stack. Moving from brand design to complete web development — I build fast, minimal, and immersive digital products from front to back.
+Crafting pixels. Engineering the full stack. Moving from brand design to complete web development, I build fast, minimal, and immersive digital products from front to back.
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ The combination of a trained design eye — brand identity and logo work — wit
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibmahmudanik&show_icons=true&theme=radical&hide_border=true" alt="Rakib's GitHub Stats" />
+GitHub Stats
 </p>
 
 <p align="center">
